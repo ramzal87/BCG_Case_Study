@@ -1,0 +1,20 @@
+# config/config.yml
+input_paths:
+  primary_person: "data/input_data/Primary_Person_use.csv"
+  unit: "data/input_data/Units_use.csv"
+  charges: "data/input_data/Charges_use.csv"
+  endorsements: "data/input_data/Endorse_use.csv"
+  restrict: "data/input_data/Restrict_use.csv"
+  damages: "data/input_data/Damages_use.csv"
+
+output_paths:
+  analysis_1: "data/output_data/analysis_1.csv"
+  analysis_2: "data/output_data/analysis_2.csv"
+  analysis_3: "data/output_data/analysis_3.csv"
+  analysis_4: "data/output_data/analysis_4.csv"
+  analysis_5: "data/output_data/analysis_5.csv"
+  analysis_6: "data/output_data/analysis_6.csv"
+  analysis_7: "data/output_data/analysis_7.csv"
+  analysis_8: "data/output_data/analysis_8.csv"
+  analysis_9: "data/output_data/analysis_9.csv"
+  analysis_10: "data/output_data/analysis_10.csv"
